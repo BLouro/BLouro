@@ -9,4 +9,3 @@ I'm 22 years old and I'm a software developer in Lisbon.
 ## You can find me at:
 
  - [Linkedin](https://www.linkedin.com/in/bernardo-louro-609b13183/)
- - Discord: tinelz#6713
