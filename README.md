@@ -3,7 +3,7 @@
 I'm 22 years old and I'm a software developer in Lisbon.
    
 - 👀 I’m interested in web technologies.
-- ⚙️ I’m currently working Java with Spring Boot for Microservices Architecture and Angular.
+- ⚙️ I’m currently working with Java, Spring Boot for Microservices Architecture and also Angular.
 - 🌱 I'm currently learning everything  🤣
 
 ## Find me around the 🌍:
